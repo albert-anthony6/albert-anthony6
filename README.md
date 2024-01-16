@@ -8,5 +8,6 @@ Find me around the web 🔬:
 
  * Learning in public on [LinkedIn](https://www.linkedin.com/in/avaldes21/) 👥 💼  
  * Showcase my work on my [portfolio](https://albertvaldes.netlify.app/) 🔭🔬 
+ * Creating commits, making pull requests, and reviewing code on my [work GitHub account](https://github.com/Albert-Valdes) 🔭🔬 
 
 Frontend skills: HTML / CSS / JavaScript / Sass / SCSS / Vue / React / State Management / TypeScript / JSX / Debugging / Form Validation / Handling API calls
