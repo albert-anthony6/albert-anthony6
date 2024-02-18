@@ -1,5 +1,24 @@
 ### Welcome 👋,
 
+# Hi, I'm Albert
+
+<a href="https://stackoverflow.com/users/11882174/albert-anthony6"><img src="https://stackoverflow.com/users/flair/11882174.png" width="208" height="58" alt="profile for albert-anthony6 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for albert-anthony6 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+## A little bit about me
+
+```ruby
+name = "Albert Valdes"
+nationality = "US"
+location = "US"
+occupation = "Front End Developer"
+company = "24G"
+work_github = "https://github.com/Albert-Valdes"
+email = "valdesalbert21@gmail.com"
+website = "https://albertvaldes.netlify.app/"
+favorite_language = "JavaScript"
+hobbies = "3D Character Art, Game Development, Web Development"
+```
+
 * I am a front-end web developer, passionate about **working** to build modern user interfaces and consistently **learning** new ways to approach real-world problems that aim to enhance and create a unique user experience.
 * I am also passionate about studying 3D art and game development. I use Blender and Unity to create cool assets and small games. I showcase a little of this in my portfolio!
 
